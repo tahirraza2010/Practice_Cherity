@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+}
+
+
+/* .navbar {
+    position: fixed; Fix the navbar at the top
+    top: 0;
+    width: 100%; Full width
+    background-color: #333;
+    z-index: 1000; Ensure it stays on top of other elements
+} */
+ .forbg{
+    background-image: url(./images/section-bg1.jpg);
+    width: 100%;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ }
+ .for-bg{
+    background-image: url(./images/section-bg2.jpg);
+    width: 100%;
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }  
+ .forcur{
+    cursor: pointer;
+ }
+ 
+.footer-social a i{-webkit-transition:all .4s ease-out 0s;-moz-transition:all .4s ease-out 0s;-ms-transition:all .4s ease-out 0s;-o-transition:all .4s ease-out 0s;transition:all .4s ease-out 0s;display:inline-block;transform:rotateY(0deg);-webkit-transform:rotateY(0deg);-moz-transform:rotateY(0deg);-ms-transform:rotateY(0deg);-o-transform:rotateY(0deg)}.footer-social a:hover{color:#FF4495;background:#fff}.footer-social a:hover i{transform:rotateY(180deg);-webkit-transform:rotateY(180deg);-moz-transform:rotateY(180deg);-ms-transform:rotateY(180deg);-o-transform:rotateY(180deg)}
+    
+
+
+.footer-social{
+    font-size: 25px;
+    color: black;
+}
+ 
